@@ -1,4 +1,3 @@
-import unittest
 import day01.puzzle as day1
 
 from unittest import TestCase
